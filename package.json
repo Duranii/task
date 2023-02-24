@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Duranii/responsive.git"
+    "url": "git+https://github.com/Duranii/first-task.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Duranii/responsive/issues"
+    "url": "https://github.com/Duranii/first-task/issues"
   },
-  "homepage": "https://github.com/Duranii/responsive#readme",
-  "dependencies": {
+  "homepage": "https://github.com/Duranii/first-task#readme",
+  "devDependencies": {
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
